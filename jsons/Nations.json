@@ -31,7 +31,7 @@
 "outerColor": [4,4,4],
 "innerColor": [162,65,48],
 "uniqueName": "Evernight's Blessing",
-"uniques": ["[+2] Movement <for [Armor] units>"],
+"uniques": ["[+2] Movement <for [Armored] units>"],
 "cities": ["Tingen", "Backlund", "Constant City", "Limon City"]
 },
 {
