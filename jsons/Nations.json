@@ -1,41 +1,55 @@
 [
     {
-		"name": "Adelle Corp",
-		"leaderName": "Kane",
+		"name": "Tarot Club",
+		"leaderName": "The Fool",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text.",
-		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
-		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
+		"startIntroPart1": "Above the grey fog, in a palace untouched by time, a long bronze table stood surrounded by twenty-two empty chairs — and when Klein Moretti opened his eyes there, no longer in Tingen but in a place that should not exist, he found himself seated at its head before two bewildered strangers pulled from their own dreams, and with a calm he did not truly feel, he folded his hands, let the mist curl around them, and spoke the words that would change all their fates: Welcome to the Tarot Club.",
+		"startIntroPart2": "I woke up in Klein Moretti's body, in a damp, unfamiliar room in Tingen, with another man's memories stabbing into my skull and a world of Beyonders, secret churches, and mad gods waiting outside my door — and instead of panicking, I smiled, because in my old life I was no one, but here, in this world where knowledge was power and mystery was currency, I saw my chance: I would learn its rules, climb its pathways, gather followers in the fog above, and turn this second life into an empire, until the day even gods would have to whisper my name — The Fool.",
+		"declaringWar": "From this day forward, there will be no more hiding, no more running, no more kneeling to gods who feed on fear, and as the Tarot Club rose behind me, cards in hand and faith in their eyes, I raised my hand and spoke the words that would shake every church, every kingdom, and every god in this world: I, The Fool, declare war.",
+		"attacked": "YYou think you can kill me? I have died once already, I have walked through madness, through fog, through the gaze of gods — and I am still here. Strike me down, and I will return. Break my palace, and I will rebuild it in your dreams. You came to end The Fool... but you have only given me a reason to show you why even gods fear my name.",
 		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
-		"introduction": "If I am cut, Do I not bleed?",
-		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+		"introduction": "The fool who doesn't belong this era, the mysterious ruler above the gray fog, The king of yellow and black who wields good luck.",
+		"tradeRequest": "Should we have A session of Equivalent Exchange?",
 		"outerColor": [0,0,0],
 		"innerColor": [142,22,0],
-		"uniqueName": "Word of Nod",
+		"uniqueName": "The Fool's Blessing",
 		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"cities": ["Tingen", "Backlund", "Bayam", "Bansy Harbor", "Pritz Harbor", "Enmat Harbor", "Belltaine City", "Constant City", "Limon City", "Lamud Town", "Trier", "Underground Trier", "Cordu Village", "Farim", "Port Santa", "Azshara", "Morora", "Masin", "Segar", "Utopia", "City of Silver", "Moon City", "Nois City", "Raklev City", "Rapus City", "Port Pylos", "Port Santa", "Emerald City", "Garden of Eden", "Hanth Island", "Hartlarkh Village"]
 	},
-
-	{
-		"name": "The New Movement",
-		"leaderName": "Anton Slavik",
-		"preferredVictoryType": "Domination",
-
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text",
-		"declaringWar": "It is in  my Intentions to spread the word of Nod into your land.",
-		"attacked": "Pitiful fool! Now we shall destroy you!",
-		"defeated": "I see for the black hand has been unworthy to serve Kane.",
-		"introduction": "If you would stay out of our way then you might live to tell your tale.",
-		"tradeRequest": "I would be grateful if you agreed on the following proposal.",
-		"outerColor": [139,0,0],
-		"innerColor": [0,0,0],
-		"uniqueName": "Purification",
-		"uniques": ["No damage penalty for wounded units <for [non-air] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
-	}
+{
+	"name": "Church of the Evernight",
+"leaderName": "The Evernight Goddess",
+"preferredVictoryType": "Domination",
+"startIntroPart1": "Darkness is not the absence of light, but the rest that all things return to. In the silent night, we watch over dreams and death.",
+"startIntroPart2": "From the cathedrals of Backlund to the quiet streets of Tingen, the night belongs to us. We are the guardians of sleep, of secrets, and of the final rest.",
+"declaringWar": "The night has fallen. Those who disturb the peace of the night shall face eternal slumber.",
+"attacked": "You dare strike in the darkness? The night itself will swallow your army.",
+"defeated": "Even in defeat, the night remains. We shall return with the next dusk, for darkness never truly dies.",
+"introduction": "We are the servants of the Evernight Goddess, keeper of darkness, dreams, and the underworld. May the Goddess bless your night.",
+"tradeRequest": "Shall we have a session of Equivalent Exchange under the moonlight?",
+"outerColor": [0,0,0],
+"innerColor": [142,22,0],
+"uniqueName": "Evernight's Blessing",
+"uniques": ["[+30]% Strength vs [City-States]", "[+2] Movement <for [Armored] units>"],
+"cities": ["Tingen", "Backlund", "Constant City", "Limon City"]
+},
+{
+"name": "Church of the Lord of Storms",
+"leaderName": "The Lord of Storms",
+"preferredVictoryType": "Domination",
+"startIntroPart1": "The sea roars, the thunder cracks. The Storm does not ask permission — it takes.",
+"startIntroPart2": "From Pritz Harbor to Bayam, every sailor knows: bow to the storm, or be broken by it.",
+"declaringWar": "The storm is coming! Let thunder be our war drums and lightning be our spears!",
+"attacked": "You dare challenge the sea and sky? Your fleet will be swallowed by the waves!",
+"defeated": "The storm may calm, but it never dies. We shall gather again on the horizon.",
+"introduction": "I speak for the Lord of Storms, ruler of sea, thunder, and wind. Kneel, or be swept away.",
+"tradeRequest": "Shall we trade before the storm hits?",
+"outerColor": [0,40,120],
+"innerColor": [255,255,255],
+"uniqueName": "Storm's Fury",
+"uniques": ["[+30]% Strength vs [Naval] units", "[+1] Movement <for [Naval] units>"],
+"cities": ["Pritz Harbor", "Bayam", "Bansy Harbor", "Enmat Harbor"]
+},
+	
 ]
