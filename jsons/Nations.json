@@ -82,7 +82,7 @@
 "outerColor": [95,128,4],
 "innerColor": [255,255,63],
 "uniqueName": "Sun's Purification",
-"uniques": ["[+20]% Strength vs [Barbarian] units", "[+10]% [productions]"],
+"uniques": ["[+20]% Strength vs [Barbarian] units", "[+10]% [Production]"],
 "cities": ["Trier", "Farim", "Cordu Village"]
 },	
 {
