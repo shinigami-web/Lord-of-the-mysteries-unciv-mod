@@ -14,7 +14,12 @@
      {
         "name": "Naval",
         "movementType": "Water"
+         
     },
-    
+    {
+        "name": "Mortal Scout",
+        "movementType": "Land"
+         
+    },
     
 ]
