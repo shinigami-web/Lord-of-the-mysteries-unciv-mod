@@ -8,7 +8,7 @@
     },
     {
 		"name": "Civilians",
-		"unitType": "Civilian",
+		"unitType": "Mortal Scout",
 		"movement": 1,
 		"cost": 100,
 	},
