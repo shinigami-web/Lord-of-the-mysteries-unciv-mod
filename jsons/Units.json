@@ -24,6 +24,11 @@
 		
 	},
 
-	
+	// The Tarot Club
+	{
+		"name": "Miss Justice",
+		"unitType": "Hero",
+		
+	},
 	
 ]
