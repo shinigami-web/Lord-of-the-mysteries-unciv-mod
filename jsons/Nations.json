@@ -14,7 +14,7 @@
 		"outerColor": [2,2,2],
 		"innerColor": [158,56,38],
 		"uniqueName": "The Fool's Blessing",
-		"uniques": ["[+30]% Strength vs [City-States]", "[+2] Movement <for [Wounded] units>"],
+		"uniques": ["[+13]% [Happinness]"],
 		"cities": ["Tingen", "Backlund", "Bayam", "Bansy Harbor", "Pritz Harbor", "Enmat Harbor", "Belltaine City", "Constant City", "Limon City", "Lamud Town", "Trier", "Underground Trier", "Cordu Village", "Farim", "Port Santa", "Azshara", "Morora", "Masin", "Segar", "Utopia", "City of Silver", "Moon City", "Nois City", "Raklev City", "Rapus City", "Port Pylos", "Port Santa", "Emerald City", "Garden of Eden", "Hanth Island", "Hartlarkh Village"]
 	},
 {
@@ -29,7 +29,7 @@
 "introduction": "We are the servants of the Evernight Goddess, keeper of darkness, dreams, and the underworld. May the Goddess bless your night.",
 "tradeRequest": "Shall we have a session of Equivalent Exchange under the moonlight?",
 "outerColor": [4,4,4],
-"innerColor": [158,56,38],
+"innerColor": [162,65,48],
 "uniqueName": "Evernight's Blessing",
 "uniques": ["[+30]% Strength vs [City-States]", "[+2] Movement <for [Armored] units>"],
 "cities": ["Tingen", "Backlund", "Constant City", "Limon City"]
