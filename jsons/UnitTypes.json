@@ -6,6 +6,15 @@
     {
         "name": "Infantry",
         "movementType": "Land"
-    }
+    },
+     {
+        "name": "Armored",
+        "movementType": "Land"
+    },
+     {
+        "name": "Naval",
+        "movementType": "Water"
+    },
+    
     
 ]
