@@ -96,10 +96,10 @@
 "defeated": "Even in winter, the seed sleeps beneath the soil. We shall bloom again in spring.",
 "introduction": "We are the children of the Earth Mother, nurturers of life, harvest, and healing. May your fields be fertile.",
 "tradeRequest": "Shall we share the bounty of the earth?",
-"outerColor": [89,168,389,
+"outerColor": [89,168,89],
 "innerColor": [108,56,18],
 "uniqueName": "Earth Mother's Harvest",
-"uniques": ["[+20]% Food", "[+1] Food <from [Farm] improvements>"],
+"uniques": ["[+20]% Food", "[+1 Food] all from [Farm] improvements"],
 "cities": ["Segar", "Masin", "Port Santa"]
 },
 	{
@@ -134,7 +134,7 @@
 "outerColor": [100,100,100],
 "innerColor": [200,200,200],
 "uniqueName": "Steam's Innovation",
-"uniques": ["[+20]% Production", "[+1] Production <from [Workshop] buildings>"],
+"uniques": ["[+20]% Production", "[+1 Production] from all [Workshop] buildings"],
 "cities": ["Backlund", "Tingen", "Belltaine City", "Constant City"]
 },	
 ]
