@@ -7,9 +7,11 @@
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
     {
-		"name": "Civilians",
+		"name": "Mortal",
 		"unitType": "Mortal Scout",
 		"movement": 1,
+		"strength": 1,
+		"range": 1,
 		"cost": 100,
 	},
 
