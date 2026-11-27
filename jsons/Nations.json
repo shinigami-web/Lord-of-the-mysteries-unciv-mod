@@ -65,7 +65,7 @@
 "outerColor": [255,215,0],
 "innerColor": [0,0,0],
 "uniqueName": "Wisdom's Light",
-"uniques": ["[+20]% Science", "[+1] Science <from [Library] buildings>"],
+"uniques": ["[-15]% Science cost of researching new Technologies", "[+1 Science] from all [Library] buildings"],
 "cities": ["Backlund", "Trier", "Morora", "Azshara"]
 	},
 {
