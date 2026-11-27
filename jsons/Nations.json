@@ -54,7 +54,7 @@
 	{
 		"name": "Church of Knowledge",
 "leaderName": "The God of Knowledge and Wisdom",
-"preferredVictoryType": "Scientific",
+"preferredVictoryType": "Domination",
 "startIntroPart1": "Knowledge is the only true light. Ignorance is the greatest sin.",
 "startIntroPart2": "In our libraries, in our academies, we collect all that is known, and seek all that is unknown.",
 "declaringWar": "You have chosen ignorance over wisdom. We shall correct your error — with knowledge and with force.",
@@ -88,7 +88,7 @@
 {
 	"name": "Church of the Earth Mother",
 "leaderName": "The Earth Mother",
-"preferredVictoryType": "Cultural",
+"preferredVictoryType": "Domination",
 "startIntroPart1": "The earth gives life, the earth takes life. We are all children of the soil.",
 "startIntroPart2": "In fields and forests, in harvest and birth, the Mother watches over us all.",
 "declaringWar": "You have poisoned the land and harmed her children. The earth itself shall rise against you!",
@@ -123,7 +123,7 @@
 {
 "name": "Church of Steam and Machinery",
 "leaderName": "The God of Steam and Machinery",
-"preferredVictoryType": "Scientific",
+"preferredVictoryType": "Domination",
 "startIntroPart1": "Steam hisses, gears turn, the world moves forward. The old gods fear progress. We embrace it.",
 "startIntroPart2": "In workshops and factories, we build the future — one engine, one invention at a time.",
 "declaringWar": "Your outdated ways cannot stop progress. Our machines shall crush you!",
