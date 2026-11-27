@@ -14,7 +14,7 @@
 		"outerColor": [2,2,2],
 		"innerColor": [158,56,38],
 		"uniqueName": "The Fool's Blessing",
-		"uniques": ["[+13]% [Happiness]"],
+		"uniques": ["[+13]% [happiness]"],
 		"cities": ["Tingen", "Backlund", "Bayam", "Bansy Harbor", "Pritz Harbor", "Enmat Harbor", "Belltaine City", "Constant City", "Limon City", "Lamud Town", "Trier", "Underground Trier", "Cordu Village", "Farim", "Port Santa", "Azshara", "Morora", "Masin", "Segar", "Utopia", "City of Silver", "Moon City", "Nois City", "Raklev City", "Rapus City", "Port Pylos", "Port Santa", "Emerald City", "Garden of Eden", "Hanth Island", "Hartlarkh Village"]
 	},
 {
@@ -82,7 +82,7 @@
 "outerColor": [95,128,4],
 "innerColor": [255,255,63],
 "uniqueName": "Sun's Purification",
-"uniques": ["[+20]% Strength vs [Barbarian] units", "[+10]% PRODUCTION"],
+"uniques": ["[+20]% Strength vs [Barbarian] units", "[+10]% [productions]"],
 "cities": ["Trier", "Farim", "Cordu Village"]
 },	
 {
